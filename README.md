@@ -1,6 +1,6 @@
-# Ak Way Cheatsheet
+# Ak Way Cheatsheet V 0.3.0
 
-![Ak Way Cheatsheet](ak-way-cheatsheet.png)
+![Ak Way Cheatsheet](ak-way-defaults-cheatsheet.png)
 
 
-[PDF Version](ak-way-cheatsheet.pdf)
+[PDF Version](ak-way-defaults-cheatsheet.pdf)
