@@ -1,3 +1,6 @@
 # Ak Way Cheatsheet
 
-![Ak Way Cheatsheet](img/ak-way-cheatsheet.png)
+![Ak Way Cheatsheet](ak-way-cheatsheet.png)
+
+
+[PDF Version](ak-way-cheatsheet.pdf)
