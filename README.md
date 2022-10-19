@@ -1,4 +1,4 @@
-# Ak Way Cheatsheet V 0.3.2
+# Ak Way Cheatsheet V 0.4.0
 
 ![Ak Way Cheatsheet](ak-way-defaults-cheatsheet.png)
 
